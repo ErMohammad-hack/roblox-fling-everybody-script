@@ -1,4 +1,4 @@
--- so evil dude make it better uf you want 
+-- so evil dude make it better uf you want  this script was made for mm2 so it work better there
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
